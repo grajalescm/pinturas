@@ -60,3 +60,11 @@ margin-bottom: 3px;
 .threeD{
   text-shadow: 1px 3px 0px #212121, 1px 13px 5px rgb(171, 168, 168);
   }
+
+footer {
+  background: #000;
+  color: #fff;
+  clear: both;
+  padding: 5px 0px;
+  text-align: center;
+}
